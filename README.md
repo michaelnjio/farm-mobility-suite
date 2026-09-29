@@ -24,3 +24,21 @@
 - **Storage:** Cloudinary for crop/bike photos
 
 ## How They Connect
+Farmer uses Shambalens -> detects need for spraying -> books sprayer in ShambaHire -> rider delivers inputs using 6to6 bike
+
+## Shared Database Schema
+- Users (phone, location, ID)
+- M-Pesa Transactions
+- Locations (GPS pin)
+
+## Roadmap
+- [ ] Phase 1: Shambalens MVP (disease detection)
+- [ ] Phase 2: ShambaHire launch for next planting season
+- [ ] Phase 3: 6to6 pilot with 5 bikes in Eldoret CBD
+
+## Contact
+Michael - WhatsApp: +254...
+Location: Eldoret, Rift Valley, KE
+
+---
+Built with AFFiNE + GitHub + Meta AI
